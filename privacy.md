@@ -76,6 +76,10 @@ Our backend runs on Supabase. Attached to your anonymous identifier we store:
   incorrect or partial, and the **structured analysis returned by the AI**. That analysis
   contains a transcription of the exercises and the explanations shown to you, so it may
   include whatever text was written on the page.
+- **Partner codes:** if you redeem a partner's code — for example an influencer's
+  "1 month free" code — we record which partner it was, so that we can pay them a commission
+  on your subscription for up to 12 months. The partner only ever sees totals: how many
+  people used their code and what they have earned. Never who you are.
 
 We do **not** store the homework photograph itself. We do **not** store your children's
 names — those stay on your phone, as described above.
@@ -122,6 +126,7 @@ Google processes the image under its own terms:
 | Running the app and analysing the homework you submit | Performance of a contract, Art. 6(1)(b) |
 | Enforcing weekly page limits and subscription tiers | Legitimate interest in preventing abuse, Art. 6(1)(f) |
 | Keeping your scan history so progress can be shown | Performance of a contract, Art. 6(1)(b) |
+| Paying commission to the partner whose code you redeemed | Legitimate interest in running the referral programme, Art. 6(1)(f) |
 | Tax and accounting records for purchases | Legal obligation, Art. 6(1)(c) |
 
 We do **not** use your data for advertising or profiling, we do **not** use it to train AI

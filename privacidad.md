@@ -77,6 +77,10 @@ Nuestro backend funciona sobre Supabase. Asociado a tu identificador anónimo gu
   fueron correctas, incorrectas o parciales, y el **análisis estructurado que devuelve la
   IA**. Ese análisis contiene una transcripción de los ejercicios y las explicaciones que
   ves, de modo que puede incluir el texto escrito en la hoja.
+- **Códigos de colaboradores:** si canjeas el código de un colaborador —por ejemplo, el
+  «1 mes gratis» de un influencer—, registramos qué colaborador era, para poder pagarle una
+  comisión sobre tu suscripción durante un máximo de 12 meses. El colaborador solo ve
+  totales: cuántas personas usaron su código y cuánto ha ganado. Nunca quién eres.
 
 **No** guardamos la fotografía de los deberes. **No** guardamos los nombres de tus hijos:
 permanecen en tu teléfono, tal y como se describe arriba.
@@ -125,6 +129,7 @@ Google trata la imagen según sus propias condiciones:
 | Prestar el servicio y analizar los deberes que envías | Ejecución de un contrato, art. 6.1.b |
 | Aplicar los límites semanales de páginas y los niveles de suscripción | Interés legítimo en evitar abusos, art. 6.1.f |
 | Conservar tu historial para mostrar el progreso | Ejecución de un contrato, art. 6.1.b |
+| Pagar la comisión al colaborador cuyo código canjeaste | Interés legítimo en gestionar el programa de recomendación, art. 6.1.f |
 | Obligaciones fiscales y contables de las compras | Obligación legal, art. 6.1.c |
 
 **No** usamos tus datos para publicidad ni elaboración de perfiles, **no** los usamos para
