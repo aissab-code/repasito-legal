@@ -5,6 +5,8 @@ lang: es
 
 # Repasito
 
+- [Ayuda (español)](soporte)
+- [Help (English)](support)
 - [Política de privacidad (español)](privacidad)
 - [Privacy policy (English)](privacy)
 
