@@ -25,7 +25,6 @@ the artificial intelligence that checks them.
 ## How many pages can I check?
 
 - **Free:** 20 pages a week. The count resets every Monday.
-- **When you start:** a 14-day trial with 60 pages a week.
 - **Repasito Plus:** up to 400 pages a week.
 
 ## How do I manage or cancel Repasito Plus?
