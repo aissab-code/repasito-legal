@@ -24,8 +24,8 @@ a la inteligencia artificial que las corrige.
 
 ## ¿Cuántas páginas puedo corregir?
 
-- **Gratis:** 20 páginas a la semana. El contador se renueva cada lunes.
-- **Repasito Plus:** hasta 400 páginas a la semana.
+- **Gratis:** 10 páginas a la semana. El contador se renueva cada lunes.
+- **Repasito Plus:** hasta 200 páginas a la semana. El plan anual empieza con 7 días gratis.
 
 ## ¿Cómo gestiono o cancelo Repasito Plus?
 
