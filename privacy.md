@@ -173,8 +173,9 @@ consent at any time.
 
 To exercise any of these, email **aissa.b.code@gmail.com**. We answer within 30 days.
 
-Because the app has no login, please send your request from the device you use and tell us
-roughly when you started using Repasito, so we can identify the right records.
+Because the app has no login, please include your **Repasito ID** (in the app: Profile → Your
+Repasito ID) so we can identify the right records. Step-by-step instructions for deleting your
+data are on [this page](delete-data).
 
 You can remove everything held on your device at any time by uninstalling the app or
 clearing its storage. That does not remove the server-side records, which we delete on

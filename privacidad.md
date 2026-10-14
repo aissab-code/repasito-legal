@@ -177,9 +177,9 @@ También puedes retirar tu consentimiento en cualquier momento.
 Para ejercer cualquiera de ellos, escribe a **aissa.b.code@gmail.com**. Respondemos en un
 plazo de 30 días.
 
-Como la aplicación no tiene inicio de sesión, envía tu solicitud desde el dispositivo que
-usas e indícanos aproximadamente cuándo empezaste a usar Repasito, para poder identificar los
-registros correctos.
+Como la aplicación no tiene inicio de sesión, incluye tu **ID de Repasito** (en la aplicación:
+Perfil → Tu ID de Repasito) para que podamos identificar los registros correctos. Los pasos
+para borrar tus datos están en [esta página](delete-data).
 
 Puedes eliminar en cualquier momento todo lo guardado en tu dispositivo desinstalando la
 aplicación o borrando sus datos. Eso no elimina los registros del servidor, que borramos
