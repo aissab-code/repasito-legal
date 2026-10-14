@@ -29,18 +29,22 @@ the artificial intelligence that checks them.
 
 ## How do I manage or cancel Repasito Plus?
 
-On your iPhone: **Settings → your name → Subscriptions → Repasito**. Or in the app:
-**Profile → Manage subscription**.
+On your iPhone: **Settings → your name → Subscriptions → Repasito**. On Android: open the
+**Play Store → your profile picture → Payments & subscriptions → Subscriptions → Repasito**.
+Or in the app: **Profile → Manage subscription**.
 
 ## I changed phones and can't see my subscription
 
-Use the same Apple ID, open **Profile → Upgrade to Plus** and tap **Restore purchases**.
+Use the same Apple ID (iPhone) or Google account (Android), open **Profile → Upgrade to Plus**
+and tap **Restore purchases**.
 
 ## I have a promo code
 
-Tap **Promo code** on the Home screen: Apple's redemption sheet opens for you to enter it. You
-can also redeem it in the App Store by tapping your profile picture → **Redeem Gift Card or
-Code**.
+Tap **Promo code** on the Home screen. On iPhone, Apple's redemption sheet opens for you to
+enter it; you can also redeem it in the App Store by tapping your profile picture → **Redeem
+Gift Card or Code**. On Android, type it in the screen that opens; a Google Play code can also
+be redeemed in the Play Store: your profile picture → **Payments & subscriptions → Redeem
+code**.
 
 ## What happens to my data?
 

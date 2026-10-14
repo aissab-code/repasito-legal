@@ -5,7 +5,7 @@ lang: en
 
 # Privacy Policy — Repasito
 
-**Last updated:** 6 October 2026
+**Last updated:** 14 October 2026
 
 This policy explains what Repasito does with personal data. Repasito is a homework-checking
 app used at home by a **parent or legal guardian** to support a child's learning.
@@ -140,8 +140,9 @@ models, and we do **not** sell it.
 - **Google LLC (Gemini API)** — analyses homework images. <https://policies.google.com/privacy>
 - **RevenueCat, Inc.** — records which subscription you hold, keyed to your anonymous
   identifier. <https://www.revenuecat.com/privacy>
-- **Apple** — distributes the app and takes payment for subscriptions. We never see your
-  payment details. <https://www.apple.com/legal/privacy/>
+- **Apple** (App Store, iPhone) and **Google** (Google Play, Android) — distribute the app and
+  take payment for subscriptions. We never see your payment details.
+  <https://www.apple.com/legal/privacy/> · <https://policies.google.com/privacy>
 
 There are no advertising SDKs and no third-party analytics in this app.
 

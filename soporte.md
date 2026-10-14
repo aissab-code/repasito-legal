@@ -29,17 +29,22 @@ a la inteligencia artificial que las corrige.
 
 ## ¿Cómo gestiono o cancelo Repasito Plus?
 
-En el iPhone: **Ajustes → tu nombre → Suscripciones → Repasito**. También desde la app:
-**Perfil → Gestionar suscripción**.
+En el iPhone: **Ajustes → tu nombre → Suscripciones → Repasito**. En Android: abre **Play
+Store → tu foto de perfil → Pagos y suscripciones → Suscripciones → Repasito**. También desde
+la app: **Perfil → Gestionar suscripción**.
 
 ## He cambiado de móvil y no veo mi suscripción
 
-Usa el mismo ID de Apple, abre **Perfil → Mejorar a Plus** y pulsa **Restaurar compras**.
+Usa el mismo ID de Apple (iPhone) o la misma cuenta de Google (Android), abre **Perfil →
+Mejorar a Plus** y pulsa **Restaurar compras**.
 
 ## Tengo un código promocional
 
-Pulsa **Código promocional** en Inicio: se abre el canje de Apple, donde lo escribes. También
-puedes canjearlo en el App Store, tocando tu foto de perfil → **Canjear tarjeta regalo o código**.
+Pulsa **Código promocional** en Inicio. En el iPhone se abre el canje de Apple, donde lo
+escribes; también puedes canjearlo en el App Store, tocando tu foto de perfil → **Canjear
+tarjeta regalo o código**. En Android, escríbelo en la pantalla que se abre; un código de
+Google Play también se canjea en Play Store: tu foto de perfil → **Pagos y suscripciones →
+Canjear código**.
 
 ## ¿Qué pasa con mis datos?
 

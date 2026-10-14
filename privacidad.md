@@ -5,7 +5,7 @@ lang: es
 
 # Política de Privacidad — Repasito
 
-**Última actualización:** 6 de octubre de 2026
+**Última actualización:** 14 de octubre de 2026
 
 Esta política explica qué hace Repasito con los datos personales. Repasito es una aplicación
 de corrección de deberes que un **padre, madre o tutor legal** utiliza en casa para apoyar el
@@ -143,8 +143,9 @@ entrenar modelos de IA y **no** los vendemos.
 - **Google LLC (API Gemini)** — analiza las imágenes de deberes. <https://policies.google.com/privacy>
 - **RevenueCat, Inc.** — registra qué suscripción tienes, asociada a tu identificador
   anónimo. <https://www.revenuecat.com/privacy>
-- **Apple** — distribuye la aplicación y cobra las suscripciones. Nosotros nunca vemos tus
-  datos de pago. <https://www.apple.com/legal/privacy/>
+- **Apple** (App Store, iPhone) y **Google** (Google Play, Android) — distribuyen la
+  aplicación y cobran las suscripciones. Nosotros nunca vemos tus datos de pago.
+  <https://www.apple.com/legal/privacy/> · <https://policies.google.com/privacy>
 
 Esta aplicación no incluye SDK de publicidad ni analítica de terceros.
 
